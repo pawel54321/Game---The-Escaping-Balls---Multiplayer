@@ -1,2 +1,2 @@
-# The Escaping Balls-Multiplayer
+# The Escaping Balls
 My game - Multiplayer
